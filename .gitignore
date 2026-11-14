@@ -1,0 +1,5 @@
+.DS_Store
+venv/
+__pycahce__/
+.ipynb_checkpoints/
+data/raw/*
